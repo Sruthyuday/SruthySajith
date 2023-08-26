@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sruthyuday
+- 👋 Hi, I’m @SruthySajith
 - 👀 I’m interested in Data Visualization
 - 🌱 I’m currently exploring my skills in Data
 - 📫 Reach me on sruthy2810@gmail.com
